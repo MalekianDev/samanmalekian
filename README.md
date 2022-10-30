@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanmalekian&label=Profile%20views&color=0e75b6&style=flat" alt="samanmalekian" /> </p>
 
-- 🔭 I’m currently working on [bakhabara](https://www.bakhabara.ir)
+- 🔭 I’m currently working on [newsap](http://newsap.ir)
 
 - 🔭 & working on [idepa](https://www.idepa.ir)
 
-- 🔭 & working on [instastage](https://t.me/instastage)
+- 🔭 & working on [vakavy](https://vakavy.ir)
+
+- 🔭 & working on ...
 
 - 🌱 I’m currently learning **back-end ( Django<DRF> ) & front-end ( ReactJs, SvelteJs )**
 
