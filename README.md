@@ -2,17 +2,6 @@
 <h3 align="center">A Python developer from Iran, Tehran.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanmalekian&label=Profile%20views&color=0e75b6&style=flat" alt="samanmalekian" /> </p>
-
-- 🔭 I’m currently working on [newsap](http://newsap.ir)
-
-- 🔭 & working on [idepa](https://www.idepa.ir)
-
-- 🔭 & working on [vakavy](https://vakavy.ir)
-
-- 🔭 & working on ...
-
-- 🌱 I’m currently learning **back-end ( Django<DRF> ) & front-end ( ReactJs, SvelteJs )**
-
 - 💬 Ask me about **Python, Javascript, Linux, Osint, Web, SQL & NON-SQL Databases**
 
 - 📫 How to reach me **malekian@protonmail.com**
